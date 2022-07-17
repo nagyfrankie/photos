@@ -5,6 +5,7 @@ description: "Even if you're not doing anything wrong, you are being watched and
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://n4.sk" # the base hostname & protocol for your site
 github_username:  nagyfrankie
+facebook_username:  nfrantisek
 
 # Build settings
 markdown: kramdown
