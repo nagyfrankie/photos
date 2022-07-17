@@ -1,0 +1,11 @@
+# Site settings
+title: n4.sk
+email: frantisek@n4.sk
+description: "Even if you're not doing anything wrong, you are being watched and recorded. 'Edward Snowden'"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://n4.sk" # the base hostname & protocol for your site
+github_username:  nagyfrankie
+
+# Build settings
+markdown: kramdown
+permalink: pretty
