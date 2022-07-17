@@ -2,9 +2,9 @@
 layout: post
 title:  "Vojany"
 date:   2015-10-06 15:39:40
-preview: assets/thumb/vojany.jpg
+preview: /assets/thumb/vojany.jpg
 ---
 
-![Vojany](assets/img/vojany.jpg)
+![Vojany](/assets/img/vojany.jpg)
 
 Vojany Power Station (Elektrárne Vojany)
