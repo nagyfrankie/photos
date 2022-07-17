@@ -5,6 +5,6 @@ date:   2022-07-15 14:49:40
 preview: /assets/thumb/jd9580iwts.jpg
 ---
 
-![Vojany](/assets/img/jd9580iwts.jpg)
+![John Deere](/assets/img/jd9580iwts.jpg)
 
 John Deere 9580i wts
