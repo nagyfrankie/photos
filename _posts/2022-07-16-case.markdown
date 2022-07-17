@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vojany"
+title:  "Case IH 6140"
 date:   2015-10-06 15:39:40
 preview: /assets/thumb/case.jpg
 ---
