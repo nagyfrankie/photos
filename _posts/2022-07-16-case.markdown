@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Vojany"
+date:   2015-10-06 15:39:40
+preview: /assets/thumb/case.jpg
+---
+
+![Vojany](/assets/img/case.jpg)
+
+Case IH 6140
