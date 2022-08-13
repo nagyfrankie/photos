@@ -5,6 +5,6 @@ date:   2022-08-10 15:46:19
 preview: /assets/thumb/octavia.jpg
 ---
 
-![Audi](/assets/img/octavia.jpg)
+![Skoda Octavia](/assets/img/octavia.jpg)
 
-Audi [https://azeszaki.hu/hu](https://azeszaki.hu/hu)
+Skoda Octavia [https://azeszaki.hu/hu](https://azeszaki.hu/hu)
