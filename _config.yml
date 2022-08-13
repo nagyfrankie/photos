@@ -10,3 +10,8 @@ facebook_username:  nfrantisek
 # Build settings
 markdown: kramdown
 permalink: pretty
+plugins:
+  - jekyll-paginate
+
+paginate: 9
+paginate_path: "/page:num/"
